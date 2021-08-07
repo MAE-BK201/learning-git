@@ -3,5 +3,6 @@ package main;
 import "fmt";
 
 func main() {
-	fmt.Println("Hey there");
+	x := 12;
+	fmt.Println("Hey there you must be: ", x);
 }
